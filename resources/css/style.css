@@ -38,10 +38,13 @@ nav a:hover {
 h1 {
   border: 3px solid white;
   border-radius: 4px;
-  padding: 10px;
+  padding: 7px 7px 7px 18px;
   margin: 5px;
-  width: 300px;
+  width: 400px;
   height: 65px;
+  text-align: center;
+  font-weight: 900;
+  letter-spacing: 0.07em;
   color: white;}
 
 .banner {
@@ -51,10 +54,10 @@ h1 {
   height: 1280px;}
 
 .banner h2 {
-  position: absolute;
-  top: 30%;
-  margin-left: 10%;
-  width: 900px;
+  position: relative;
+  top: 20%;
+  margin-left: 3%;
+  width: 800px;
   font-size: 800%;
   font-weight: 900;
   font-style: oblique;
